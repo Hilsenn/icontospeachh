@@ -6,6 +6,13 @@ body{
 
 button{
 
+
+  background-image: url(imagenes/Medic.png);
+  width: 60%;
+  height: 40px;
+
+
+
 }
 
 p{
