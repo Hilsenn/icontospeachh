@@ -5,6 +5,7 @@ body{
 
 
 button{
+<<<<<<< HEAD
 width: 200px;
 height: 50px;
 font-size: 30px;
@@ -13,6 +14,19 @@ border-radius: 15px;
 font-family:  'Rosario', sans-serif;
 outline: none;
 cursor: pointer;
+=======
+
+
+
+  background-image:url("imagenes/Medic.png");
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+
+
+
+>>>>>>> f6ecba6033569351eeb65b6a00c43bd17141f930
 }
 
 p{
