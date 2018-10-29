@@ -7,9 +7,12 @@ body{
 button{
 
 
-  background-image: url(imagenes/Medic.png);
-  width: 60%;
-  height: 40px;
+
+  background-image:url("imagenes/Medic.png");
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
 
 
 
